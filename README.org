@@ -1,10 +1,9 @@
 * roan
 
+A library of Common Lisp code for writing applications for change ringing.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://bitbucket.org/dfmorrison/roan.git   |
-| commit  |   |
-| systems | roan |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------|
+| source  | git:https://bitbucket.org/dfmorrison/roan.git |
+| commit  | 7f998c0                                       |
+| systems | roan                                          |
+|---------+-----------------------------------------------|
